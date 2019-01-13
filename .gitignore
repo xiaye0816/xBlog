@@ -8,6 +8,7 @@ public/
 .idea
 .npmignore
 db.json
+nohup.out
 package.json
 package-lock.json
 /themes/*
