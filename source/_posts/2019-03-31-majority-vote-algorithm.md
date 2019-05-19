@@ -2,7 +2,7 @@
 title: Majority Vote 算法
 date: 2019-03-31 16:53:54
 description: Find the majority element in a list of values.
-tags: algorithm
+tags: [algorithm,majority-vote]
 categories: algorithm
 ---
 
