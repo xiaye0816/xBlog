@@ -29,7 +29,7 @@ if count > length / 2
 else
     return -1
 ```
-完整代码：[SolutionOne.java](https://github.com/xiaye0816/BlogCode/blob/master/src/main/majority_vote_algorithm/solution/SolutionOne.java)
+完整代码：[SolutionOne.java](https://github.com/xiaye0816/BlogCode/blob/master/src/main/algorithm/majorityvote/solution/SolutionOne.java)
 
 #### 复杂度
 因为需要排序，所以复杂度为O (n * logn)
@@ -70,7 +70,7 @@ if count > length / 2
 else
      return -1
 ```
-完整代码：[SolutionTwo.java](https://github.com/xiaye0816/BlogCode/blob/master/src/main/majority_vote_algorithm/solution/SolutionTwo.java)
+完整代码：[SolutionTwo.java](https://github.com/xiaye0816/BlogCode/blob/master/src/main/algorithm/majorityvote/solution/SolutionTwo.java)
 
 #### 复杂度
 O (n)，系数32
@@ -115,7 +115,7 @@ if count > length / 2
 else
      return -1
 ```
-完整代码：[SolutionThree.java](https://github.com/xiaye0816/BlogCode/blob/master/src/main/majority_vote_algorithm/solution/SolutionThree.java)
+完整代码：[SolutionThree.java](https://github.com/xiaye0816/BlogCode/blob/master/src/main/algorithm/majorityvote/solution/SolutionThree.java)
 
 #### 复杂度
 O (n)
@@ -162,7 +162,7 @@ if count2 > length / 3
 
 return -1
 ```
-完整代码：[SolutionExtended.java](https://github.com/xiaye0816/BlogCode/blob/master/src/main/majority_vote_algorithm/solution/SolutionExtended.java)
+完整代码：[SolutionExtended.java](https://github.com/xiaye0816/BlogCode/blob/master/src/main/algorithm/majorityvote/solution/SolutionExtended.java)
 
 #### 复杂度
 O (n)
