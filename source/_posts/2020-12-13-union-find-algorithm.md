@@ -1,7 +1,7 @@
 ---
-title: 朋友圈问题的解法
+title: 朋友圈问题
 date: 2020-12-13 18:04:21
-description: 针对不交集的合并和查询问题的几种解决办法，包括bitmap、无向图深度优先搜索、并查集等
+description: 针对朋友圈、群覆盖等不交集融合问题的几种解法，包括bitmap、无向图深度优先搜索、并查集等
 categories: algorithm
 tags: [algorithm,union-find,bitmap,dfs]
 ---
